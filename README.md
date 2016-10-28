@@ -1,1 +1,2 @@
-# android-ViewPager
+# NonSwipeableViewPager
+Disabling swipe in ViewPager 
